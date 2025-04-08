@@ -2,7 +2,7 @@
 
 A Windows Forms application in C# that adds Gaussian noise to `.bmp` images. It supports multithreaded processing and optional grayscale conversion. The interface is intuitive and allows for visual comparison between the original and noised image.
 
-![](https://github.com/LenaDzi1/Gaussian-noise-generator/blob/main/gaussian_noise.gif)
+![]([https://github.com/LenaDzi1/Gaussian-noise-generator/blob/main/gaussian_noise.gif])
 
 ## ✨ Features
 

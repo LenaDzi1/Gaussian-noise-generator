@@ -1,0 +1,4 @@
+LIBRARY AsmLib
+EXPORTS
+Grayscale_Conversion
+AddGaussianNoise
